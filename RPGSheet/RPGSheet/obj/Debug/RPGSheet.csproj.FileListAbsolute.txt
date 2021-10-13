@@ -1,0 +1,10 @@
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\bin\Debug\RPGSheet.exe.config
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\bin\Debug\RPGSheet.exe
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\bin\Debug\RPGSheet.pdb
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.csproj.AssemblyReference.cache
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.Form1.resources
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.Properties.Resources.resources
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.csproj.GenerateResource.cache
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.csproj.CoreCompileInputs.cache
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.exe
+C:\Users\gabri\programming\RPG Sheet\RPGSheet\RPGSheet\obj\Debug\RPGSheet.pdb
