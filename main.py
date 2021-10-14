@@ -1,5 +1,5 @@
 def insertAccount(user, password):
     arquivo = open('database.txt', 'a')
-    arquivo.write(f'{password} {user}\n')
+    arquivo.write(f'{user} {password}\n')
 
     return {"user": user, "password": password}
